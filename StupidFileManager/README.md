@@ -1,6 +1,7 @@
 ## Android Stupid File Manager
 
 There is a simplest file manager based on the [UILib library][1] here. It is just calls FileManagerActivity from the library. 
+
 Min SDK version - 7 (Android 2.1)
 
 ## To build
