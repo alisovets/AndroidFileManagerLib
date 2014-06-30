@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">UILib</string>
+    <string name="about_text">It\'s activity to work with files.</string>
+    <string name="action_about">about</string>
+    
+    <string name="ok_btn_title">OK</string>
+    <string name="yes_btn_title">Yes</string>
+    <string name="no_btn_title">No</string>
+    <string name="cancel_btn_title">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="uilib_app_icon_description">app icon</string>
+    <string name="uilib_empty_dir_title">Empty directory.</string>
+    <string name="uilib_open_file">Open file</string>
+    <string name="uilib_save">Save</string>
+    <string name="uilib_select">Select</string>
+    <string name="uilib_open">Open</string>
+    <string name="uilib_go_back">One level up</string>
+    <string name="uilib_filename">file name</string>
+    <string name="uilib_folder_up">Up</string>
+    <string name="uilib_folder_home">home</string>
+    <string name="uilib_can_not_open_file">Can not open the file.</string>
+	<string name="uilib_no_app_to_open">No applications to perform this.</string>
+	<string name="uilib_new_folder_title">Create folder.</string>
+	<string name="uilib_new_folder_message">New folder name: </string>
+	<string name="uilib_new_folder_name">New</string>
+	<string name="uilib_rename_dlg_title">Rename.</string>
+	<string name="uilib_rename_file_dlg_message">New file name: </string>
+	<string name="uilib_replace_dlg_title">Replacing.</string>
+	<string name="uilib_rename_dlg_hint">input new name</string>
+	<string name="uilib_rename_dir_dlg_message">New directory name: </string>
+	<string name="uilib_fail_rename_dlg_title">Renaming failure!</string>
+	<string name="uilib_fail_replace_dlg_title">Replacing failure!</string>
+	<string name="uilib_fail_copy_dlg_title">Copying failure!</string>
+	<string name="uilib_fail_delete_dlg_title">Deleting failure!</string>
+	<string name="uilib_fail_create_dir_dlg_title">Сreate the folder failed!</string>
+	<string name="uilib_delete_dir_dlg_title">Delete directory.</string>
+	<string name="uilib_delete_file_dlg_title">Delete file.</string>
+	<string name="uilib_delete_dir_dlg_quest">Are you sure you want to delete directory? </string>
+	<string name="uilib_delete_file_dlg_quest">Are you sure you want to delete file?</string>
+	<string name="uilib_copy_dir_dlg_title">Copy directory.</string>
+	<string name="uilib_copy_file_dlg_title">Copy file.</string>
+	<string name="uilib_copy_exist_dir_dlg_quest">Another folder with the same name already exists in this folder.\nDo you want to overwrite the files with identical names?</string>
+	<string name="uilib_copy_exist_file_dlg_quest">Another file with the same name already exists in this folder.\nDo you want to overwrite it?</string>
+	
+	<string name="uilib_fail_rename_file_dlg_message">Could not rename the file.</string>
+	<string name="uilib_fail_rename_dir_dlg_message">Could not rename the directory.</string>
+	<string name="uilib_fail_delete_file_dlg_message">Could not delete the file.</string>
+	<string name="uilib_fail_delete_dir_dlg_message">Could not delete the directory.</string>
+	<string name="uilib_fail_create_dir_dlg_message">Could not create the directory.</string>
+	<string name="uilib_directory_exists_dlg_message">The directory exists already.</string>
+	
+	<string name="uilib_fail_copy_file_dlg_message">Could not copy the file.</string>
+	<string name="uilib_fail_copy_dir_dlg_message">Could not copy the directory.</string>
+	<string name="uilib_fail_replace_file_dlg_message">Could not replace the file.</string>
+	<string name="uilib_fail_replace_dir_dlg_message">Could not replace the directory.</string>
+	<string name="uilib_fail_replace_dir_in_itself_dlg_message">Cannot move a folder into itself.</string>
+
+	<string name="uilib_show_hidden_menu_item">show hidden</string>
+	<string name="uilib_hide_hidden_menu_item">hide hidden</string>
+	<string name="uilib_cut_menu_tile">Cut</string>
+	<string name="uilib_copy_menu_tile">Copy</string>
+	<string name="uilib_paste_menu_tile">Paste</string>
+	<string name="uilib_rename_menu_tile">Rename</string>
+	<string name="uilib_new_folder_menu_tile">New folder </string>
+	<string name="uilib_delete_menu_tile">Delete</string>
+	<string name="uilib_details_menu_tile">Details</string>
+	<string name="uilib_processing_dlg_msg">Processing&#8230;</string>
+	
+	<string name="uilib_dir_details" formatted="false">Name: %s\nLocation: %s\nSize: %d bytes
+	    	\nContents: %d folders, %d files
+	    	\nLast modified: %s
+	    	\nallow to read:  %s
+	    	\nallow to write: %s\n
+	</string>
+	<string name="uilib_file_details" formatted="false">Name: %s\nLocation: %s\nSize: %d bytes
+	    	\nLast modified: %s
+	    	\nallow to read:  %s
+	    	\nallow to write: %s\n
+	</string>
+	
+	<string name="uilib_fs_details" formatted="false">\nFree space: %d bytes\nTotal space: %d bytes
+	</string>
+	
+	
+	
+		
+
+
+</resources>

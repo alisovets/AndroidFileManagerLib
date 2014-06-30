@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/pathTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="0dp"
+        android:ellipsize="start"
+        android:lines="1"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@android:color/darker_gray"
+        android:textSize="12sp"
+        android:textStyle="normal"
+        android:visibility="visible" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/bg_blue" />
+
+    <FrameLayout
+        android:id="@+id/screenLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+        </ListView>
+
+        <TextView
+            android:id="@+id/emptyDirMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/uilib_empty_dir_title"
+            android:textSize="24sp"
+            android:visibility="gone" />
+    </FrameLayout>
+
+</LinearLayout>

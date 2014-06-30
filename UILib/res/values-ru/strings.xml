@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">UILib</string>
+    <string name="about_text">Это активити для работы с файлами.</string>
+    <string name="action_about">о программе</string>
+    
+    <string name="ok_btn_title">OK</string>
+    <string name="yes_btn_title">Да</string>
+    <string name="no_btn_title">Нет</string>
+    <string name="cancel_btn_title">Отмена</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="uilib_empty_dir_title">Пустая папка.</string>
+    <string name="uilib_open_file">Открыть файл</string>
+    <string name="uilib_save">Сохранить</string>
+    <string name="uilib_select">Выбрать</string>
+    <string name="uilib_open">Открыть</string>
+    <string name="uilib_go_back">Один уровень вверх</string>
+    <string name="uilib_filename">Имя файла</string>
+    <string name="uilib_folder_up">Вверх</string>
+    <string name="uilib_folder_home">Домой</string>
+    <string name="uilib_can_not_open_file">Не могу открыть файл.</string>
+	<string name="uilib_no_app_to_open">Нет приложений чтобы выполнить это.</string>
+	<string name="uilib_new_folder_title">Создать папку.</string>
+	<string name="uilib_new_folder_message">Имя новой папки: </string>
+	<string name="uilib_new_folder_name">Новая</string>
+	<string name="uilib_rename_dlg_title">Переименовать.</string>
+	<string name="uilib_rename_file_dlg_message">Новое имя файла: </string>
+	<string name="uilib_replace_dlg_title">Перемещение.</string>
+	<string name="uilib_rename_dlg_hint">Введите новое имя</string>
+	<string name="uilib_rename_dir_dlg_message">Новое имя папки: </string>
+	<string name="uilib_fail_rename_dlg_title">Не удалось переименовать!</string>
+	<string name="uilib_fail_replace_dlg_title">Не удалось переместить!</string>
+	<string name="uilib_fail_copy_dlg_title">Не удалось скопировать!</string>
+	<string name="uilib_fail_delete_dlg_title">Удаление не удалось!</string>
+	<string name="uilib_fail_create_dir_dlg_title">Не удалось создать папку!</string>
+	<string name="uilib_delete_dir_dlg_title">Удаление папки.</string>
+	<string name="uilib_delete_file_dlg_title">Удаление файла.</string>
+	<string name="uilib_delete_dir_dlg_quest">Вы действительно хотите удалить папку?</string>
+	<string name="uilib_delete_file_dlg_quest">Вы действительно хотите удалить файл?</string>
+	<string name="uilib_copy_dir_dlg_title">Коаирование папки.</string>
+	<string name="uilib_copy_file_dlg_title">Копирование файла.</string>
+	<string name="uilib_copy_exist_dir_dlg_quest">Другая папка с таким же именем уже судествует в этой папке!\nВы хотите перезаписать файлы такими же именами?</string>
+	<string name="uilib_copy_exist_file_dlg_quest">Другой файл с таким же именем уже есть в этой папке.\nВы хотите перезаписать его?</string>
+	
+	<string name="uilib_fail_rename_file_dlg_message">Не удается переименовать файл.</string>
+	<string name="uilib_fail_rename_dir_dlg_message">Не удается переименовать папку.</string>
+	<string name="uilib_fail_delete_file_dlg_message">Не могу удалить файл.</string>
+	<string name="uilib_fail_delete_dir_dlg_message">Не удается удалить папку.</string>
+	<string name="uilib_fail_create_dir_dlg_message">Не удается создать папку.</string>
+	<string name="uilib_directory_exists_dlg_message">Папка уже существует.</string>
+	<string name="uilib_fail_copy_file_dlg_message">Не удается скопировать файл.</string>
+	<string name="uilib_fail_copy_dir_dlg_message">Не удается скопирвать папку.</string>
+	<string name="uilib_fail_replace_file_dlg_message">Не удается переместить файл.</string>
+	<string name="uilib_fail_replace_dir_dlg_message">Не удается переместить папку.</string>
+	<string name="uilib_fail_replace_dir_in_itself_dlg_message">Невозможно переместить папку в нее же.</string>
+	<string name="uilib_show_hidden_menu_item">показать скрытые</string>
+	<string name="uilib_hide_hidden_menu_item">скрыть скрытые</string>
+	<string name="uilib_cut_menu_tile">Вырезать</string>
+	<string name="uilib_copy_menu_tile">Копировать</string>
+	<string name="uilib_paste_menu_tile">Вставить</string>
+	<string name="uilib_rename_menu_tile">Переименовать</string>
+	<string name="uilib_new_folder_menu_tile">Создать папку</string>
+	<string name="uilib_delete_menu_tile">Удалить</string>
+	<string name="uilib_details_menu_tile">Детали</string>
+	<string name="uilib_processing_dlg_msg">Обработка&#8230;</string>
+	
+	<string name="uilib_dir_details" formatted="false">Имя: %s\nРазмещение: %s\nРазмер: %d байт
+	    	\nСодержимое: %d папок, %d файлов
+	    	\nПоследнее изменнение: %s
+	    	\nразрешено чтение: %s
+	    	\nразрешена запись: %s\n
+	</string>
+	<string name="uilib_file_details" formatted="false">Имя: %s\nРазмещение: %s\nРазмер: %d bytes
+	    	\nПоследнее изменнениеб %s
+	    	\nразрешено чтение: %s
+	    	\nразрешена запись: %s\n
+	</string>
+	
+	<string name="uilib_fs_details" formatted="false">\nСвободное место: %d bytes\nВсего : %d bytes
+	</string>
+
+</resources>

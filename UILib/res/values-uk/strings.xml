@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">UILib</string>
+    <string name="about_text">Це активіті для роботи з файлами.</string>
+    <string name="action_about">про програму</string>
+    
+    <string name="ok_btn_title">Гаразд</string>
+    <string name="yes_btn_title">Так</string>
+    <string name="no_btn_title">Ні</string>
+    <string name="cancel_btn_title">Відміна</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="uilib_empty_dir_title">Пуста директорія</string>
+    <string name="uilib_open_file">Відкрити файл</string>
+    <string name="uilib_save">Зберегти</string>
+    <string name="uilib_select">Вибрати</string>
+    <string name="uilib_open">Відкрити</string>
+    <string name="uilib_go_back">Піднятись на оди рівень</string>
+    <string name="uilib_filename">Назва файла</string>
+    <string name="uilib_folder_up">Вгору</string>
+    <string name="uilib_folder_home">Додому</string>
+    <string name="uilib_can_not_open_file">Неможливо відкрити файл.</string>
+	<string name="uilib_no_app_to_open">Намає жодної програми щоб відктити цей файл.</string>
+	<string name="uilib_new_folder_title">Створити директорію.</string>
+	<string name="uilib_new_folder_message">Назва нової директорії: </string>
+	<string name="uilib_new_folder_name">Нова</string>
+	<string name="uilib_rename_dlg_title">Перейменувати.</string>
+	<string name="uilib_rename_file_dlg_message">Нова назва файла: </string>
+	<string name="uilib_replace_dlg_title">Переміщення.</string>
+	<string name="uilib_rename_dlg_hint">Введіть нову назву</string>
+	<string name="uilib_rename_dir_dlg_message">Нова назва директорії: </string>
+	<string name="uilib_fail_rename_dlg_title">Не вдалось перейменвати!</string>
+	<string name="uilib_fail_replace_dlg_title">Не вдалось перемістити!</string>
+	<string name="uilib_fail_copy_dlg_title">Не вдалось скопіювати !</string>
+	<string name="uilib_fail_delete_dlg_title">Не вдалось видалити!</string>
+	<string name="uilib_fail_create_dir_dlg_title">Не вдалсь створити директорію!</string>
+	<string name="uilib_delete_dir_dlg_title">Видалення директорії.</string>
+	<string name="uilib_delete_file_dlg_title">Видалення файлу.</string>
+	<string name="uilib_delete_dir_dlg_quest">Ви дійсно хочете видалити директорію?</string>
+	<string name="uilib_delete_file_dlg_quest">Ви дійсно хочете видалити файл?</string>
+	<string name="uilib_copy_dir_dlg_title">Копіювання директорії.</string>
+	<string name="uilib_copy_file_dlg_title">Копіювання файлу.</string>
+	<string name="uilib_copy_exist_dir_dlg_quest">Інша директорія з такою ж назвою вже існує.\nПерезаписати файли з такими ж назвами?</string>
+	<string name="uilib_copy_exist_file_dlg_quest">Інший файл з такою ж назвою вже існує.\nПерезаписати його?</string>
+	
+	<string name="uilib_fail_rename_file_dlg_message">Не вдається перейменувати файл.</string>
+	<string name="uilib_fail_rename_dir_dlg_message">Не вдається перейменувати директорію.</string>
+	<string name="uilib_fail_delete_file_dlg_message">Не вдається видалити файл.</string>
+	<string name="uilib_fail_delete_dir_dlg_message">Не вдається видалити директорію.</string>
+	<string name="uilib_fail_create_dir_dlg_message">Не вдається створити директорію.</string>
+	<string name="uilib_directory_exists_dlg_message">Така директорія вже існує.</string>
+	
+	<string name="uilib_fail_copy_file_dlg_message">Не вдається скопіювати файл.</string>
+	<string name="uilib_fail_copy_dir_dlg_message">Не вдається скопіювати директорію.</string>
+	<string name="uilib_fail_replace_file_dlg_message">Не вдається перемістити файл.</string>
+	<string name="uilib_fail_replace_dir_dlg_message">Не вдається перемістити директорію.</string>
+	<string name="uilib_fail_replace_dir_in_itself_dlg_message">Не можу перемістити директорію в неї саму.</string>
+
+	<string name="uilib_show_hidden_menu_item">показувати приховані</string>
+	<string name="uilib_hide_hidden_menu_item">сховати приховані</string>
+	<string name="uilib_cut_menu_tile">Вирізати</string>
+	<string name="uilib_copy_menu_tile">Копіювати</string>
+	<string name="uilib_paste_menu_tile">Вставити</string>
+	<string name="uilib_rename_menu_tile">Перейменувати</string>
+	<string name="uilib_new_folder_menu_tile">Створити директорію </string>
+	<string name="uilib_delete_menu_tile">Видалити</string>
+	<string name="uilib_details_menu_tile">Деталі</string>
+	<string name="uilib_processing_dlg_msg">Обробка&#8230;</string>
+	
+	<string name="uilib_dir_details" formatted="false">Назва: %s\nРозміщення: %s\nРозмір: %d байт
+	    	\nВміст: %d директорій, %d файлів
+	    	\nВостаннє змінювалась: %s
+	    	\nдозволено читання: %s
+	    	\nдозволено запис:   %s\n
+	</string>
+	<string name="uilib_file_details" formatted="false">Назва: %s\nРозміщення: %s\nРозмір: %d байт
+	    	\nВостаннє змінювався: %s
+	    	\nдозволено читання: %s
+	    	\nдозволено запис:   %s\n
+	</string>
+	
+	<string name="uilib_fs_details" formatted="false">\nВільне місце: %d байт\nУсього: %d байт
+	</string>
+	
+
+</resources>

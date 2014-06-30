@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тупий Файловий Менеджер</string>
+     <string name="about_text">Ця программа є тупо файловий менеджер з мінімальним функціоналом.
+         \n\nРозробник Олександр Лісовець, Україна, 2014.
+         \n\nСвої відгуки, зауваження, скарги, образи і прокльони відсилайте на адресу: \na.lisovets.android.dev@gmail.com
+         </string>
+
+</resources>

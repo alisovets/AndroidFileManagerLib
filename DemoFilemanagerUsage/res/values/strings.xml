@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filemanager Usage Demo </string>
+    <string name="about">Demo Filemanager\n\nDemo Filemanager</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_btn_caption">Just filemanager</string>
+    <string name="open_file_btn_caption">Select any file to open</string>
+    <string name="open_file_no_menu_btn_caption">Select any file to open \n(no popup menu)</string>
+    <string name="open_text_file_btn_caption">Select text or zip file to open </string>
+    <string name="save_text_file_btn_caption">Select text file to save</string>
+    <string name="open_file_no_menu_title">Open file (no menu)</string>
+    <string name="init_file_name">New file.txt</string>
+    <string name="open_file_selected_format">You selected the file \n\"%1$s\" \nin the \"%2$s\" \nto open it.</string>
+    <string name="save_file_selected_format">You selected the file \n\"%1$s\" \nin the \"%2$s\" \nto save it.</string>
+
+</resources>

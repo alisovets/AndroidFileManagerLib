@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тупой Файловый Менеджер</string>
+     <string name="about_text">Это приложение - тупо файл менеджер с минимальным функционалом.
+         \n\nРазработчик Александр Лисовец, Украина, 2014.
+         \n\nСвои замечания, пожелания жалобы и оскорбления отправляйте по адресу: \na.lisovets.android.dev@gmail.com
+         </string>
+
+</resources>
